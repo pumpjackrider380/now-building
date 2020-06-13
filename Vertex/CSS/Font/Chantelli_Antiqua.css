@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Chantelli_Antiqua';
+    src: url(../Font/Chantelli_Antiqua-webfont) format('woff'),
+    	url(../Font/Chantelli_Antiqua-webfont.ttf) format('truetype');
+
+}
+
+h1{
+	font-size: 24px;
+	font-family: 'Chantelli_Antiqua';
+	font-family: 'Comic Neue', cursive;
+}

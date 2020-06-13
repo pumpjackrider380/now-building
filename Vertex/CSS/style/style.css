@@ -1,0 +1,30 @@
+##############p{
+	color: rgb(255,0,0);
+	font-family: Arial;
+	font-weight: 800;
+	font-size:15px;
+	line-height: 1.8;
+	font-style: bold;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: normal;
+	word-spacing: 2px;
+	text-align:justify;##
+#########}
+
+
+#main-heading{
+	color:  rgb(255,240,0);
+}
+}
+
+p{
+	color: purple;
+	font-size:40px;
+}
+.green-text{
+	color:green;
+}
+.bold-text{
+	font-weight:bold;
+}
